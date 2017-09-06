@@ -1,3 +1,3 @@
 integracao-office-365
 
-Um pequeno projeto de integração de emails através da api do office 365. A integração é feita toda no lado cliente.
+Um pequeno projeto de integração de emails, utilizando javascript, através da api do office 365.
